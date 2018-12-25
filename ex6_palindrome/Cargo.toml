@@ -1,0 +1,8 @@
+[package]
+name = "ex6_palindrome"
+version = "0.1.0"
+authors = ["Ilya Piatrenka <petrenko.ilia@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+unicode-segmentation = "1.2.1"
